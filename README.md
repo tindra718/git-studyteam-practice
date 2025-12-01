@@ -10,7 +10,7 @@
 
 ## 📝 完整操作步骤（按顺序执行）
 ### 1. Fork 本仓库
-- 进入本仓库页面：`https://github.com/你的GitHub用户名/git-studyteam-practice`
+- 进入本仓库页面：`https://github.com/tindra718/git-studyteam-practice`
 - 点击页面右上角「Fork」按钮，选择自己的 GitHub 账号，等待仓库复制完成（Fork 后你将拥有仓库的个人副本）。
 
 ### 2. Clone 到本地
