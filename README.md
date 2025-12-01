@@ -1,14 +1,12 @@
 # git-studyteam-practice
 学习小组实践练习仓库
 
-```markdown
 # git-studyteam-practice
 学习小组 Git 协作实践练习仓库，通过本项目掌握 Fork、Clone、分支管理、PR 等完整 GitHub 协作流程～
 
 ## ⚠️ 前置准备
-1. **安装 Git**：访问 [Git 官网](https://git-scm.com/) 下载对应系统版本，安装后打开终端（Windows 推荐 Git Bash），执行 `git --version` 验证是否安装成功。
-2. **注册 GitHub 账号**：若未注册，访问 [GitHub 官网](https://github.com/) 完成注册并登录。
-```
+1. 安装 Git：访问 [Git 官网](https://git-scm.com/) 下载对应系统版本，安装后打开终端（Windows 推荐 Git Bash），执行 `git --version` 验证是否安装成功。
+2. 注册 GitHub 账号：若未注册，访问 [GitHub 官网](https://github.com/) 完成注册并登录。
 
 ## 📝 完整操作步骤（按顺序执行）
 ### 1. Fork 本仓库
